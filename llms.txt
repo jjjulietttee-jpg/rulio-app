@@ -1,0 +1,22 @@
+# Rulio
+
+> Rulio turns your iPhone camera into a tape measure. Point, tap two points, read the size — in metres or feet.
+
+Rulio: AR Tape Measure — Ruler, Floor Plan & Level. iPhone app, available on the App Store: https://apps.apple.com/app/id6809011459?pt=128839649&ct=ai_web
+
+## Guides
+
+- [How to Measure a Distance With Your iPhone Camera](https://jjjulietttee-jpg.github.io/rulio-app/measure-distance-with-iphone-camera): Measure length or width in two taps with the AR tape in Rulio.
+- [How to Measure the Height of a Door or Ceiling With iPhone](https://jjjulietttee-jpg.github.io/rulio-app/measure-height-door-ceiling-iphone): Measure from the floor to the top of a door, shelf or ceiling.
+- [How to Measure a Room's Area and Make a Floor Plan on iPhone](https://jjjulietttee-jpg.github.io/rulio-app/measure-room-area-floor-plan-iphone): Tap a room's corners to get wall lengths, area and perimeter.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/rulio-app/): what Rulio does, features, pricing
+- [App Store](https://apps.apple.com/app/id6809011459?pt=128839649&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/rulio-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/rulio-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/rulio-app/terms)
